@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ApiTransactionApplication<api-transaction>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "transaction.api.api_transaction.ApiTransactionApplication",
+            "projectName": "api-transaction",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
